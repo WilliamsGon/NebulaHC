@@ -11,7 +11,7 @@
       "id": "hunos2-test-1.20.1",
       "name": "hunos2-test (Minecraft 1.20.1)",
       "description": "hunos2-test Running Minecraft 1.20.1 (Forge v47.2.20)",
-      "icon": "https://discord.com/channels/1062854016415043645/1062854017631399993/1337460565014220903",
+      "icon": null,
       "version": "1.0.0",
       "address": "172.96.140.91:25575",
       "minecraftVersion": "1.20.1",
@@ -20,8 +20,8 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
-      "autoconnect": true,
+      "mainServer": false,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.2.20",
@@ -31,7 +31,7 @@
           "artifact": {
             "size": 7400,
             "MD5": "9445bd28cb8bbf3405bcacc54627a6da",
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar"
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 16554,
                 "MD5": "2b7daf23d11fff0d0e2b7ae54712dbdf",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/versions/1.20.1-forge-47.2.20/1.20.1-forge-47.2.20.json"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/versions/1.20.1-forge-47.2.20/1.20.1-forge-47.2.20.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 118686,
                 "MD5": "a710f72f170f88737ff72a53ea1349d8",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 16517,
                 "MD5": "3521da7e51982c2ace3a21ffe4070693",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 4999,
                 "MD5": "4aeef0ba963dfbe0c4104b6532989988",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 2679250,
                 "MD5": "27de7a3f2e5c69d54bc52cb179831aa9",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-universal.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-universal.jar"
               },
               "subModules": []
             },
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 4791301,
                 "MD5": "c548aeb8e9e1cd028005b628b54f3a29",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-client.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-client.jar"
               },
               "subModules": []
             },
@@ -112,7 +112,7 @@
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
@@ -124,7 +124,7 @@
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
@@ -136,7 +136,7 @@
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
@@ -147,7 +147,7 @@
               "artifact": {
                 "size": 88749,
                 "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
               }
             },
             {
@@ -157,7 +157,7 @@
               "artifact": {
                 "size": 121863,
                 "MD5": "29721ee4b5eacf0a34b204c345c8bc69",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
               }
             },
             {
@@ -167,7 +167,7 @@
               "artifact": {
                 "size": 72209,
                 "MD5": "7d1fce986192f71722b19754e4cb9e61",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
               }
             },
             {
@@ -177,7 +177,7 @@
               "artifact": {
                 "size": 51944,
                 "MD5": "44755681b7d6fa7143afbb438e55c20c",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
               }
             },
             {
@@ -187,7 +187,7 @@
               "artifact": {
                 "size": 91076,
                 "MD5": "ad0016249fb68bb9196babefd47b80dc",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
               }
             },
             {
@@ -197,7 +197,7 @@
               "artifact": {
                 "size": 33978,
                 "MD5": "4df0adafc78ebba404d4037987d36b61",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
               }
             },
             {
@@ -207,7 +207,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -217,7 +217,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -227,7 +227,7 @@
               "artifact": {
                 "size": 53985,
                 "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
               }
             },
             {
@@ -237,7 +237,7 @@
               "artifact": {
                 "size": 29831,
                 "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
               }
             },
             {
@@ -247,7 +247,7 @@
               "artifact": {
                 "size": 24199,
                 "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
               }
             },
             {
@@ -257,7 +257,7 @@
               "artifact": {
                 "size": 130343,
                 "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
               }
             },
             {
@@ -267,7 +267,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -277,7 +277,7 @@
               "artifact": {
                 "size": 2572,
                 "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -287,7 +287,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -297,7 +297,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -307,7 +307,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -317,7 +317,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -327,7 +327,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -337,7 +337,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -347,7 +347,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -357,7 +357,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -367,7 +367,7 @@
               "artifact": {
                 "size": 2167288,
                 "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
               }
             },
             {
@@ -377,7 +377,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
               }
             },
             {
@@ -387,7 +387,7 @@
               "artifact": {
                 "size": 15895,
                 "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -397,7 +397,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -407,7 +407,7 @@
               "artifact": {
                 "size": 32195,
                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -417,7 +417,7 @@
               "artifact": {
                 "size": 264185,
                 "MD5": "acee22eaf221c8cd61225002596f7640",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.2.20/fmlloader-1.20.1-47.2.20.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.2.20/fmlloader-1.20.1-47.2.20.jar"
               }
             },
             {
@@ -427,7 +427,7 @@
               "artifact": {
                 "size": 170553,
                 "MD5": "b54b6fe4bd44788dcc6655f3399541f4",
-                "url": "https://panel.randomhousemc.com/server/1c4bafc0/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.20/fmlearlydisplay-1.20.1-47.2.20.jar"
+                "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.20/fmlearlydisplay-1.20.1-47.2.20.jar"
               }
             }
           ]
@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47428,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "dae63cea9c951dda542a4005ceef3953"
           }
         },
@@ -448,7 +448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 580602,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
             "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
           }
         },
@@ -458,7 +458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 442600,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.18-all.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.18-all.jar",
             "MD5": "c289bb503be7903f53d04e04988aaf09"
           }
         },
@@ -468,7 +468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21800460,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/BiomesOPlenty-1.20.1-18.0.0.592.jar",
             "MD5": "dd2ec3933263ff5ff2eb0bbc21d8a0f7"
           }
         },
@@ -478,7 +478,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11461409,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.6.3.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.6.3.jar",
             "MD5": "b02cb6b842bf7891aa9963e6460a4623"
           }
         },
@@ -488,7 +488,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12437003,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/Botania-1.20.1-447-FORGE.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/Botania-1.20.1-447-FORGE.jar",
             "MD5": "ef100ba99918d7a99c30792344d428f9"
           }
         },
@@ -498,7 +498,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1181413,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
           }
         },
@@ -508,7 +508,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 382083,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/comforts-forge-6.4.0+1.20.1.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/comforts-forge-6.4.0+1.20.1.jar",
             "MD5": "a88fcc168de1a0f9b2ae4e7cbe8a8408"
           }
         },
@@ -518,7 +518,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 837257,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/cookingforblockheads-forge-1.20.1-16.0.12.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/cookingforblockheads-forge-1.20.1-16.0.12.jar",
             "MD5": "e240cf452db997ca2ee6e3c395fdd537"
           }
         },
@@ -528,7 +528,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3267904,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/CraftTweaker-forge-1.20.1-14.0.57.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/CraftTweaker-forge-1.20.1-14.0.57.jar",
             "MD5": "dd01e03d08b681dff3f7c1991cbc82a6"
           }
         },
@@ -538,7 +538,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18638806,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/create-1.20.1-6.0.1.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/create-1.20.1-6.0.1.jar",
             "MD5": "c354080c396d7863d64042b6adf4865a"
           }
         },
@@ -548,7 +548,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2099945,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/Croptopia-1.20.1-FORGE-3.0.4.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/Croptopia-1.20.1-FORGE-3.0.4.jar",
             "MD5": "c7c4e6f0ff51507ad64544991dfc7454"
           }
         },
@@ -558,7 +558,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 395966,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/curios-forge-5.12.1+1.20.1.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/curios-forge-5.12.1+1.20.1.jar",
             "MD5": "35855cd2282e9499e35f17c23c353c7b"
           }
         },
@@ -568,7 +568,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 123554,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/disenchanting_table-merged-1.20.1-3.1.0.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/disenchanting_table-merged-1.20.1-3.1.0.jar",
             "MD5": "671987a493e89a6a15f8347883a81ab6"
           }
         },
@@ -578,7 +578,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/optionaloff/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/optionaloff/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           },
           "required": {
@@ -592,7 +592,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 756864,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/EpheroLib-1.20.1-FORGE-1.2.0.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/EpheroLib-1.20.1-FORGE-1.2.0.jar",
             "MD5": "f8b4d202f3fc4ffaf1bb8efd79f860bd"
           }
         },
@@ -602,7 +602,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2954263,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.7.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.7.jar",
             "MD5": "a91b9909757a8fa36303eef730033c7b"
           }
         },
@@ -612,7 +612,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 308420,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.12.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.12.jar",
             "MD5": "1b6b6ccc60c5a6ef2c232553f8a060f4"
           }
         },
@@ -622,7 +622,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 196440,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/ftb-filter-system-forge-1.0.2.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/ftb-filter-system-forge-1.0.2.jar",
             "MD5": "582fc5a14bd1b74f33552676f4408000"
           }
         },
@@ -632,7 +632,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 791841,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/ftb-library-forge-2001.2.9.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/ftb-library-forge-2001.2.9.jar",
             "MD5": "cdf8b270d3ee2c403a26206b10e0a749"
           }
         },
@@ -642,7 +642,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1193063,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/ftb-quests-forge-2001.4.12.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/ftb-quests-forge-2001.4.12.jar",
             "MD5": "946229b24a5d665d96e93a27f3bac3ca"
           }
         },
@@ -652,7 +652,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 248592,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/ftb-teams-forge-2001.3.1.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/ftb-teams-forge-2001.3.1.jar",
             "MD5": "98efb58ba7cecfb39034544eced0389f"
           }
         },
@@ -662,7 +662,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 129682,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/ftb-xmod-compat-forge-2.1.2.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/ftb-xmod-compat-forge-2.1.2.jar",
             "MD5": "270efcd953102996e26d318ef8c3c09d"
           }
         },
@@ -672,7 +672,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1004042,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.jar",
             "MD5": "96dddfb78d375bdd330ae1577ee28bfe"
           }
         },
@@ -682,7 +682,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1081985,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/hexalia-1.2.2-1.20.1+forge.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/hexalia-1.2.2-1.20.1+forge.jar",
             "MD5": "9cff78e3dc308089bcddc83ff4b828ae"
           }
         },
@@ -692,7 +692,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 93291,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/justhammers-forge-2.0.3+mc1.20.1.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/justhammers-forge-2.0.3+mc1.20.1.jar",
             "MD5": "fd4ce938613c381b4116589243efc668"
           }
         },
@@ -702,7 +702,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 151494,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/monolib-forge-1.20.1-2.0.0.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/monolib-forge-1.20.1-2.0.0.jar",
             "MD5": "00b25df2dc4377819b593aac1c293fe9"
           }
         },
@@ -712,7 +712,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 35228644,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/mowziesmobs-1.7.1.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/mowziesmobs-1.7.1.jar",
             "MD5": "e50b807b47eacbc2d76a2c9e6466b0dd"
           }
         },
@@ -722,7 +722,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/optionaloff/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/optionaloff/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
           },
           "required": {
@@ -736,7 +736,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 642711,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/Patchouli-1.20.1-84.1-FORGE.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/Patchouli-1.20.1-84.1-FORGE.jar",
             "MD5": "d5154cacf6859582eebd853bd59f5537"
           }
         },
@@ -746,7 +746,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 299140,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/polymorph-forge-0.49.8+1.20.1.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/polymorph-forge-0.49.8+1.20.1.jar",
             "MD5": "54dd12ec95207f5d8bbdc7d24a7817a0"
           }
         },
@@ -756,7 +756,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6687692,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.9.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.9.jar",
             "MD5": "f3680a8c97eed704c46aadb2854ab335"
           }
         },
@@ -766,7 +766,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 897045,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.23.6.1210.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.23.6.1210.jar",
             "MD5": "06e049d96351d51788930fbf0ac83fa4"
           }
         },
@@ -776,7 +776,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1167752,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.20.894.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.20.894.jar",
             "MD5": "ea51603948383c3c62f48543350d2e52"
           }
         },
@@ -786,7 +786,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1531699,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/sophisticatedstorage-1.20.1-1.3.9.1075.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/sophisticatedstorage-1.20.1-1.3.9.1075.jar",
             "MD5": "e487e1257da49e3fe4f6ab57531a2f2c"
           }
         },
@@ -796,7 +796,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 107534,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.7.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.7.jar",
             "MD5": "78abbc04e408fb61de6df9c968008c4b"
           }
         },
@@ -806,7 +806,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 519961,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/toms_storage-1.20-1.7.0.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/toms_storage-1.20-1.7.0.jar",
             "MD5": "a12cba85bc79469050311446e3d93490"
           }
         },
@@ -816,7 +816,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 252600,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/trofers-forge-5.0.2.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/trofers-forge-5.0.2.jar",
             "MD5": "a0096c71988fed197d3b7427e828f7ae"
           }
         },
@@ -826,7 +826,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 487651,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.10.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.10.jar",
             "MD5": "1d53bdf732660968e8771f3c53dd77eb"
           }
         },
@@ -836,7 +836,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 119264,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/WaystonesTeleportPets-1.20-1.20.1--1.2.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/WaystonesTeleportPets-1.20-1.20.1--1.2.jar",
             "MD5": "ce4bbfff531c30681c061df8b0c28efd"
           }
         },
@@ -846,7 +846,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1671075,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/Xaeros_Minimap_25.1.0_Forge_1.20.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/Xaeros_Minimap_25.1.0_Forge_1.20.jar",
             "MD5": "2157a926cd7b8e8c1b8ed607b0fde7a9"
           }
         },
@@ -856,7 +856,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 325574,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/xaeros_waystones_compability-1.0.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/xaeros_waystones_compability-1.0.jar",
             "MD5": "79bff42d6b63942c8f8cb3d11aa4bcec"
           }
         },
@@ -866,7 +866,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 933184,
-            "url": "https://panel.randomhousemc.com/server/1c4bafc0/servers/hunos2-test-1.20.1/forgemods/required/XaerosWorldMap_1.39.4_Forge_1.20.jar",
+            "url": "https://github.com/WilliamsGon/NebulaHC/raw/refs/heads/main/servers/hunos2-test-1.20.1/forgemods/required/XaerosWorldMap_1.39.4_Forge_1.20.jar",
             "MD5": "3da6919fb4f0c993772c073d787403e1"
           }
         }
