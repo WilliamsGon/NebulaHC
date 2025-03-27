@@ -1,7 +1,7 @@
 {
   "$schema": "file:///E:/Proyectos/Minecraft/Launcher/hunos2-test/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "1.0.4",
     "name": "hunos2-test (Minecraft 1.20.1)",
     "description": "hunos2-test Running Minecraft 1.20.1 (Forge v47.2.20)",
     "icon": "https://media.discordapp.net/stickers/1337422605870829680.webp",
@@ -11,8 +11,8 @@
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
-    "mainServer": false,
-    "autoconnect": false
+    "mainServer": true,
+    "autoconnect": true
   },
   "forge": {
     "version": "47.2.20"
